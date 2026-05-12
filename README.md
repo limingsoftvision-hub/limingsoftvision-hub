@@ -1,115 +1,96 @@
-# 👋 Hi, I'm Max William
+<div align="center">
+  
+# 👋 Hi, I'm Max Willima  
+### 💻 Tech Explorer | 👨‍💻 Full-Stack Developer | 🤖 Robotics Enthusiast | 🧠 Lifelong Learner  
+📍 Philippine | 🎓 CSE @ Saintgits College of Engineering (2021–2025)
 
-**Full Stack Developer | Tech Explorer | Open Source Enthusiast**
-
-A results-driven full stack developer building modern web and mobile applications with a strong focus on performance, usability, and security. Based in **Canada**, I combine practical experience in **MERN stack**, **Flutter**, and applied cryptography to deliver polished solutions.
-
-📍 **Canada**  
-📧 **Email:** liming.softvision@gmail.com  
+</div>
 
 ---
 
 ## 🚀 About Me
 
-I deliver scalable, user-first applications from concept to deployment, with a strong focus on clean architecture and maintainable code.
-
-Core strengths:
-- Full-stack web development with React, Node.js, Express, and MongoDB
-- Mobile development with Flutter and Dart
-- Backend systems, API design, and database modeling
-- Cybersecurity and encryption-focused development
-- DevOps, CI/CD, and deployment workflows
+- 🎓 I’m currently a **fresher**, open to exciting software development opportunities    
+- 🌱 Learning **Flutter** and **MERN Stack**  
+- 📧 Reach me at: sreejithsreeragam234@gmail.com  
 
 ---
 
-## 🛠️ Technical Stack
+## 🛠️ My Tech Stack  
+<div align="center">
+<table><tr><td valign="top" width="25%">
 
-### Languages
-- Python
-- JavaScript
-- C
-- HTML5
-- CSS3
+### 🧾 Languages
 
-### Frontend
-- React
-- JavaScript
-- HTML5
-- CSS3
+<div align="center">  
+<img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" style="margin:10px"/>  
+<img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" style="margin:10px"/>  
+</div>
 
-### Backend
-- Node.js
-- Express.js
-- Firebase
-- MySQL
+</td><td valign="top" width="25%">
 
-### Mobile
-- Flutter
-- Dart
+### 🎨 Frontend
 
-### Tools & DevOps
-- Git
-- GitHub
-- Linux
-- VS Code
+<div align="center">   
+<img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" style="margin:10px"/>  
+<img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" style="margin:10px"/>
+<img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" style="margin:10px"/>  
+</div>
 
----
+</td>
 
-## 💼 Professional Experience
+<td valign="top" width="25%">
 
-### Intel Unnati Industrial Training – Cryptography Simulation Project
-**Role:** Industrial Trainee | **Duration:** 3 Months
+### 🔧 Backend
 
-**Project: CodeCrypt** — A full-stack cryptography platform.
+ <div align="center">  
+        <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/firebase.png" alt="Firebase" height="50" style="margin:10px"/>  
+        <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" style="margin:10px"/>  
+        <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" style="margin:10px"/>  
+ </div>
 
-- Developed a secure backend in **C** using OpenSSL and mbedTLS
-- Built a responsive React frontend for encryption workflows
-- Implemented real-time data handling using Firebase
-- Supported RSA, AES, DES, and SHA encryption for text, files, audio, and video
-- Delivered a polished UI with strong emphasis on usability and security
+</td><td valign="top" width="25%">
 
-**Impact:**
-- Gained deep expertise in applied cryptography and secure systems
-- Delivered a production-ready encryption tool
-- Improved documentation, collaboration, and deployment processes
+### 🛠️ Frameworks & Tools
+
+<div align="center">  
+<img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" style="margin:10px"/>  
+<img src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" style="margin:10px"/>  
+<img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" style="margin:10px"/>  
+<img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" style="margin:10px"/>  
+</div>
+
+</td></tr></table>
+</div>
 
 ---
 
-## 📂 Featured Projects
+## 💼 Experience
 
-### 1. CodeCrypt — Cryptography Simulation Platform
-- **Technologies:** React, C, OpenSSL, Firebase, MySQL
-- **Description:** Enterprise-grade encryption tool with multi-format support
-- **Highlights:** real-time encryption/decryption, file support, secure key management
+### Intel Unnati Industrial Training – Cryptography Simulation with mbedTLS/OpenSSL Library Usage and User Interaction Project  
+- **Role:** Industrial Trainee 
+- **Duration:** 3 Months  
+- **Key Contributions:**
+  - Developed **CodeCrypt**, a tool for simulating cryptographic techniques using **C** and **OpenSSL**
+  - Implemented encryption algorithms including **RSA**, **AES**, **DES**, and **SHA** to support data encryption for text, files, audio, and video
+  - Built the frontend using **React.JS**, with real-time interaction powered by **Firebase**
 
-### 2. MERN Stack Applications
-- **Technologies:** MongoDB, Express.js, React, Node.js
-- **Description:** Scalable web applications with REST APIs, state management, and authentication
-
-### 3. Flutter Mobile Applications
-- **Technologies:** Flutter, Dart
-- **Description:** Cross-platform mobile solutions with polished UI and backend integration
+This experience helped deepen my understanding of applied cryptography, secure communication systems, and full-stack development. It also strengthened my teamwork, documentation, and software deployment skills.
 
 ---
 
-## 🎓 Education & Certifications
 
-### **Academic Background**
-- **Degree:** Bachelor of Technology in Computer Science & Engineering
-- **Institute:** Saintgits College of Engineering, Kollam, Kerala
-- **Duration:** 2021–2025
-- **Focus Areas:** Software Development, Data Structures, Web Technologies
+## 📜 Certifications
 
-### **Professional Certifications**
-- 🏅 **Introduction to Operating Systems** – NPTEL
-- 🏅 **Summer Internship on Digital Skills** – ICT Academy of Kerala
-- 🏅 **The Bits and Bytes of Computer Networking** – Coursera
-- 🏅 **Introduction to Web Development with HTML, CSS, JavaScript** – Coursera
-- 🏅 **Introduction to Cloud Computing** – Coursera
+- **Introduction to Operating Systems** – *NPTEL*
+- **Summer Internship on Digital Skills** – *ICT Academy of Kerala*
+- **The Bits and Bytes of Computer Networking** – *Coursera*
+- **Introduction to Web Development with HTML, CSS, JavaScript** – *Coursera*
+- **Introduction to Cloud Computing** – *Coursera*
 
 ---
 
-<!-- ## 🌐 Connect with Me
+## 🌐 Connect with Me
 
 <div align="center">
 <a href="https://github.com/sree-234" target="_blank">
@@ -124,7 +105,7 @@ Core strengths:
 <a href="https://sree-234.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-%23007ACC.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>  
-</div> -->
+</div>
 
 ---
 
@@ -136,4 +117,3 @@ You can view or download my resume here:
 ---
 
 ⭐ _Thanks for checking out my profile! Let’s connect and build amazing things together._ 🚀
-# limingsoftvision-hub
