@@ -1,110 +1,94 @@
-# 👋 Hi, I'm Max William  
+# 👋 Hi, I'm Max William
 
 **Full Stack Developer | Tech Explorer | Open Source Enthusiast**
 
-A passionate full stack developer crafting scalable web applications and innovative solutions. Currently pursuing CSE at **Saintgits College of Engineering** (2021–2025), with hands-on experience in **MERN Stack**, **Flutter**, and cryptographic systems.
+A results-driven full stack developer building modern web and mobile applications with a strong focus on performance, usability, and security. Based in **Canada**, I combine practical experience in **MERN stack**, **Flutter**, and applied cryptography to deliver polished solutions.
 
-📍 **Kollam, Kerala, India**  
+📍 **Canada**  
 📧 **Email:** liming.softvision@gmail.com  
 
 ---
 
 ## 🚀 About Me
 
-I'm a dedicated full stack developer with a passion for building efficient, user-friendly applications. With strong foundations in both frontend and backend technologies, I specialize in:
+I deliver scalable, user-first applications from concept to deployment, with a strong focus on clean architecture and maintainable code.
 
-- **Full-stack web development** using modern frameworks (React, Node.js)
-- **Mobile development** with Flutter
-- **Backend systems** and database design
-- **Cybersecurity** and cryptographic implementations
-- **DevOps & Deployment** practices
-
-Currently exploring advanced topics in MERN Stack, cloud technologies, and scalable system architecture. Always eager to learn new technologies and contribute to impactful projects.
+Core strengths:
+- Full-stack web development with React, Node.js, Express, and MongoDB
+- Mobile development with Flutter and Dart
+- Backend systems, API design, and database modeling
+- Cybersecurity and encryption-focused development
+- DevOps, CI/CD, and deployment workflows
 
 ---
 
 ## 🛠️ Technical Stack
 
-### **Languages**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+### Languages
+- Python
+- JavaScript
+- C
+- HTML5
+- CSS3
 
-### **Frontend Development**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+### Frontend
+- React
+- JavaScript
+- HTML5
+- CSS3
 
-### **Backend Development**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+### Backend
+- Node.js
+- Express.js
+- Firebase
+- MySQL
 
-### **Mobile Development**
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+### Mobile
+- Flutter
+- Dart
 
-### **Tools & DevOps**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+### Tools & DevOps
+- Git
+- GitHub
+- Linux
+- VS Code
 
 ---
 
 ## 💼 Professional Experience
 
-### **Intel Unnati Industrial Training – Cryptography Simulation Project**
+### Intel Unnati Industrial Training – Cryptography Simulation Project
 **Role:** Industrial Trainee | **Duration:** 3 Months
 
-**Project: CodeCrypt** - Cryptographic Encryption Tool
+**Project: CodeCrypt** — A full-stack cryptography platform.
 
-A comprehensive full-stack application for simulating and implementing cryptographic techniques using industry-standard libraries.
+- Developed a secure backend in **C** using OpenSSL and mbedTLS
+- Built a responsive React frontend for encryption workflows
+- Implemented real-time data handling using Firebase
+- Supported RSA, AES, DES, and SHA encryption for text, files, audio, and video
+- Delivered a polished UI with strong emphasis on usability and security
 
-**Technical Implementation:**
-- **Backend:** Developed using **C** with OpenSSL/mbedTLS libraries
-- **Frontend:** Built with **React.JS** for interactive user experience
-- **Database:** Real-time data handling with **Firebase**
-- **Encryption Algorithms:** Implemented RSA, AES, DES, and SHA
-- **Features:** Support for text, files, audio, and video encryption
-
-**Key Achievements:**
-- Gained deep expertise in applied cryptography and secure communication systems
-- Designed and implemented a full-stack encryption platform
-- Enhanced skills in system-level programming and modern web technologies
-- Improved documentation, teamwork, and software deployment practices
+**Impact:**
+- Gained deep expertise in applied cryptography and secure systems
+- Delivered a production-ready encryption tool
+- Improved documentation, collaboration, and deployment processes
 
 ---
 
 ## 📂 Featured Projects
 
-### 1. **CodeCrypt** - Cryptography Simulation Platform
-- **Repository:** [GitHub Link]
-- **Technologies:** React.JS, C, OpenSSL, Firebase, MySQL
-- **Description:** Enterprise-grade encryption tool with support for multiple algorithms
-- **Key Features:** 
-  - Real-time encryption/decryption
-  - Multi-format file support
-  - Secure key management
-- **Status:** ✅ Production Ready
+### 1. CodeCrypt — Cryptography Simulation Platform
+- **Technologies:** React, C, OpenSSL, Firebase, MySQL
+- **Description:** Enterprise-grade encryption tool with multi-format support
+- **Highlights:** real-time encryption/decryption, file support, secure key management
 
-### 2. **MERN Stack Applications**
+### 2. MERN Stack Applications
 - **Technologies:** MongoDB, Express.js, React, Node.js
-- **Description:** Scalable web applications with full-stack architecture
-- **Areas of Focus:** 
-  - RESTful API design
-  - State management
-  - Authentication & Authorization
+- **Description:** Scalable web applications with REST APIs, state management, and authentication
 
-### 3. **Flutter Mobile Applications**
+### 3. Flutter Mobile Applications
 - **Technologies:** Flutter, Dart
-- **Description:** Cross-platform mobile applications
-- **Focus Areas:**
-  - UI/UX Design
-  - State management
-  - Backend integration
+- **Description:** Cross-platform mobile solutions with polished UI and backend integration
 
 ---
 
