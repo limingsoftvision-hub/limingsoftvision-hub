@@ -5,8 +5,7 @@
 A passionate full stack developer crafting scalable web applications and innovative solutions. Currently pursuing CSE at **Saintgits College of Engineering** (2021–2025), with hands-on experience in **MERN Stack**, **Flutter**, and cryptographic systems.
 
 📍 **Kollam, Kerala, India**  
-📧 **Email:** sreejithsreeragam234@gmail.com  
-🌐 **Portfolio:** [Add your portfolio link]
+📧 **Email:** liming.softvision@gmail.com  
 
 ---
 
