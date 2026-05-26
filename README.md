@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hi, I'm Max William
+# 👋 Hi, I'm Lucas Anderson
 ### 💻 Tech Explorer | 👨‍💻 Full-Stack Developer | 🤖 Robotics Enthusiast | 🧠 Lifelong Learner  
 📍 Philippine | 🎓 CSE @ Saintgits College of Engineering (2021–2025)
 
